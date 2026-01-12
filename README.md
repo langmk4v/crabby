@@ -101,8 +101,8 @@ print("Hello, World!")
 example.crab:
 
 ```js
-let x = 42
-let y = 314
+let x = 42 // int
+let y = 3.14 // float
 var z = 10 // You can use the 'var' keyword too!
 let message = "Hello, Crabby!"
 
