@@ -336,6 +336,12 @@ It is great for python users that wants a functional approach language.
 The closest package manager `Crabby` can have is [crab](https://github.com/crabby-lang/crab/)🦀 (which is still in development),
 it functions likely the same as Rust **cargo** but for **Crabby**
 
+## Community
+
+Want to join the **Crabby Community**?
+
+- [Discord](https://discord.gg/BMYPyHRyPx)
+
 ## Contributing
 
 Crabby is open to contributions! Feel free to open an issue or a pull request.
