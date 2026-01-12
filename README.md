@@ -8,6 +8,9 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Kazooki123/crabby?style=for-the-badge&logo=github&color=orange)
 
+![Static Badge](https://img.shields.io/badge/community-discord?style=for-the-badge&logo=discord&logoColor=%235865F2&label=Discord&labelColor=%23000000&link=https%3A%2F%2Fdiscord.gg%2FzX22YVfQE)
+
+
 ## Introduction
 
 ![Logo](https://github.com/crabby-lang/crabby/blob/main/crabbylogo.png)
