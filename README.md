@@ -17,7 +17,7 @@
 
 <h3><b>Shout out to these wonderful programmers helping 🩷</b></h3>
 
-They're the reason why this project is still alive.
+They're the reason why this project is still alive!
 
 <table>
   <tr>
