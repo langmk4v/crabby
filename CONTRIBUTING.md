@@ -59,7 +59,7 @@ git commit -m "Description of the changes"
 
 ### 5. Push to Your Fork and Submit a Pull Request
 
-Push your changes to your forked repository and submit a pull request to the main Crabby repository.
+Push your changes to your forked repository and submit a pull request to the `dev` branch of Crabby.
 
 ```bash
 git push origin dev/my-new-feature
