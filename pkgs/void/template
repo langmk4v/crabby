@@ -1,7 +1,7 @@
 # Template script for Crabby in Void Linux
 
 pkgname=crabby
-version=1.2.1
+version=0.1.1
 revision=1
 build_style=cargo
 short_desc="Crabby Programming Language"
