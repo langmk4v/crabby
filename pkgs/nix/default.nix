@@ -2,7 +2,7 @@
 
 stdenv.mkDerivation rec {
     pname = "crabby";
-    version = "1.2.1";
+    version = "0.1.1";
 
     src = fetchurl {
         url = "https://github.com/crabby-lang/crabby/archive/refs/tags/v${version}.tar.gz";
