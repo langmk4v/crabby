@@ -10,7 +10,7 @@
 
 ## Introduction
 
-![Logo](https://github.com/crabby-lang/crabby/blob/main/crabbylogo.png)
+![Crabby Banner](https://github.com/crabby-lang/crabby/blob/main/crabbylogo.png)
 
 > [!WARNING]
 > **Crabby** is *still under development* with new features and bugs being fixed, if you encounter an error then that's **OUR** fault, and **we're still fixing it**. Crabby is **very new** due to the `rewrite update` and is still experiencing bugs and errors. **If you want to help out, please do!**
