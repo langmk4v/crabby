@@ -325,7 +325,7 @@ languages face like complexity in their syntax and slow runtime/compile time.
 Will it happen right now? Not yet, but could be, maybe one day you as the developer reading this
 could contribute the future of Crabby 😎
 
-> `Q`: Why does it have brackets and other non-Pythonic syntaxes if it aims to be one?
+> `Q`: Why does it have braces and other non-Pythonic syntaxes if it aims to be one?
 
 Well i didn't say it's going to be FULLY pythonic, there are hints of pythonic style syntaxes
 but **Crabby** is multi-paradigm meaning you don't alway expect everything to be fully pythonic.
