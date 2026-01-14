@@ -24,6 +24,9 @@ rustup default nightly
 
 We welcome a wide variety of contributions. Here's how you can get started:
 
+> [!IMPORTANT]
+> It is highly recommended to use the `dev` branch for mainly developing and testing crabby, as the `main` branch is only for stable or for a fixed released.
+
 ### 1. Fork Crabby
 
 Start by [forking the repository](https://github.com/crabby-lang/crabby/fork) to your own GitHub account.
@@ -42,7 +45,7 @@ cd crabby
 For each new feature, bug fix, or improvement, create a separate branch to keep your changes organized.
 
 ```bash
-git checkout -b feature/my-new-feature
+git checkout -b dev/my-new-feature
 ```
 
 ### 4. Commit Your Changes
@@ -56,10 +59,10 @@ git commit -m "Description of the changes"
 
 ### 5. Push to Your Fork and Submit a Pull Request
 
-Push your changes to your forked repository and submit a pull request to the main LunarDB repository.
+Push your changes to your forked repository and submit a pull request to the main Crabby repository.
 
 ```bash
-git push origin feature/my-new-feature
+git push origin dev/my-new-feature
 ```
 
 ### 6. Review Process
