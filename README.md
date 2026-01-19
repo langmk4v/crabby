@@ -353,7 +353,7 @@ Crabby is licensed under the GNU General Public License v3.0.
 
 ### Shout Out!
 
-Shout out to my friend **ANW** and her modern proglang called the [Lunite Programming Language](https://github.com/SubhrajitSain/Lunite)! You might want to check it out!
+Shout out to my friend **ANW** and his modern proglang called the [Lunite Programming Language](https://github.com/SubhrajitSain/Lunite)! You might want to check it out!
 
 ## Old Contributors ✨
 
